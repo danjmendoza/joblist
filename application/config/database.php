@@ -4,7 +4,7 @@ return array
 (
 	'default' => array
 	(
-		'type'       => 'MySQL',
+		'type'       => 'MySQLi',
 		'connection' => array(
 			/**
 			 * The following options are available for MySQL:
@@ -19,7 +19,7 @@ return array
 			 * Ports and sockets may be appended to the hostname.
 			 */
 			'hostname'   => 'localhost',
-			'database'   => 'valleyds_vdssites_com',
+			'database'   => 'valleyds_joblist_com',
 			'username'   => 'root',
 			'password'   => 'test',
 			'persistent' => FALSE,
