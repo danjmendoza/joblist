@@ -1,0 +1,9 @@
+[submodule "modules/email"]
+	path = modules/email
+	url = https://github.com/shadowhand/email.git
+[submodule "modules/flexiblemigrations"]
+	path = modules/flexiblemigrations
+	url = https://github.com/ferpetrelli/kohana-flexible-migrations.git
+[submodule "modules/user"]
+	path = modules/user
+	url = git@bitbucket.org:valleyds/vds-user.git
